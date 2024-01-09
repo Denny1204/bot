@@ -1975,6 +1975,14 @@
     "db": [
       {
         "nama": "#allmenu",
+        "count": 2
+      },
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#smeme",
         "count": 1
       }
     ]
